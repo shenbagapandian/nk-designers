@@ -1,0 +1,27 @@
+<div class="counting">
+            <div class="box">
+                <h1 class="count" data-count="1200">1200</h1>
+                <h3>Working Hours</h3>
+            </div>
+            <div class="box">
+                <h1 class="count" data-count="100">100</h1>
+                <h3>Clients</h3>
+            </div>
+            <div class="box">
+                <h1 class="count" data-count="500">500</h1>
+                <h3>Projects</h3>
+            </div>
+        </div>
+
+
+
+
+
+
+
+                    <div class="icon">
+                        <a href="#" class="fab fa-facbook-f"></a>
+                        <a href="#" class="fab fa-twitter-f"></a>
+                        <a href="#" class="fab fa-instagram-f"></a>
+                        <a href="#" class="fab fa-printcaste-f"></a>
+                    </div>
